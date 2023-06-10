@@ -8,7 +8,7 @@
 </br>
 </br>
 
-#### 🏡 Notion : <a href="https://glaze-beetle-1ce.notion.site/eb7ea58c43aa4cbebf72140043bea25f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<!--#### 🏡 Notion : <a href="https://glaze-beetle-1ce.notion.site/eb7ea58c43aa4cbebf72140043bea25f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>-->
 
 #### 📧 E-mail : menge050@naver.com
 </div>
