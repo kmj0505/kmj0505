@@ -1,18 +1,20 @@
 <div align="center">
 
+<!--
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=F29661&height=150&section=header&text=Minji%27s%20Github!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+-->
 
 ### 👋 Welcome to my Github Profile! 👋
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmj0505&count_bg=%23FFC961&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</br>
-</br>
+-->
 
 <!--#### 🏡 Notion : <a href="https://glaze-beetle-1ce.notion.site/eb7ea58c43aa4cbebf72140043bea25f"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>-->
 
 #### 📧 E-mail : menge050@naver.com
 </div>
 
+<!--
 ## 기술 스택
 
 | <center>분류</center> |<center>기술 스택</center>|
@@ -26,6 +28,7 @@
 | *OS*|<img src="https://img.shields.io/badge/Windows10-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>|
 | *Platform & Library & Package*| <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>|
 <br>
+-->
 
 
 ## Github Stats
